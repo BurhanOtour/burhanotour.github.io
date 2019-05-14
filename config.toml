@@ -24,15 +24,15 @@ title = "Burhan Otour · Landing Page"
 
 [params]
   author = "Burhan Otour"
-  email = "john.doe@example.com"
+  email = "burhan.a.otour@hotmail.com"
   description = "Landing Page"
-  bio = "First Row. \nSecond Row."
+  bio = "Full Stack Software Engineer. \nBased in Germany :)"
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
   [params.contact]
-    github = "https://github.com/jdoe"
-    instagram = "https://instagram.com/jdoe"
-    twitter = "https://twitter.com/jdoe"
-    ello = ""
+    github = "https://github.com/BurhanOtour"
+    instagram = "https://instagram.com/BurhanOtour"
+    twitter = "https://twitter.com/BurhanAOtour"
+    linkedin = "https://linkedin.com/in/burhanotour"
