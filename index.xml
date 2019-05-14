@@ -6,9 +6,38 @@
     <description>Recent content on Burhan Otour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://burhanotour.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating a New Post</title>
+      <link>https://burhanotour.github.io/posts/creating-a-new-post/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhanotour.github.io/posts/creating-a-new-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://burhanotour.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhanotour.github.io/about/</guid>
+      <description>Burhan Otour &amp;hellip;. Software Engineer
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://burhanotour.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhanotour.github.io/contact/</guid>
+      <description>Follow me, @botour.</description>
+    </item>
     
   </channel>
 </rss>
