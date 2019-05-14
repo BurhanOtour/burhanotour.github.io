@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://burhanotour.github.io/</loc>
+    <loc>https://burhanotour.github.io/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://burhanotour.github.io/pt-br/"
+                href="https://burhanotour.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://burhanotour.github.io/"
+                href="https://burhanotour.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://burhanotour.github.io/categories/</loc>
+    <loc>https://burhanotour.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://burhanotour.github.io/pt-br/categories/"
+                href="https://burhanotour.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://burhanotour.github.io/categories/"
+                href="https://burhanotour.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://burhanotour.github.io/series/</loc>
+    <loc>https://burhanotour.github.io/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://burhanotour.github.io/pt-br/series/"
+                href="https://burhanotour.github.io/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://burhanotour.github.io/series/"
+                href="https://burhanotour.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>http://burhanotour.github.io/tags/</loc>
+    <loc>https://burhanotour.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://burhanotour.github.io/pt-br/tags/"
+                href="https://burhanotour.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://burhanotour.github.io/tags/"
+                href="https://burhanotour.github.io/tags/"
                 />
   </url>
   
