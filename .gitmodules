@@ -1,0 +1,9 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadotdev/hugo-theme-introduction.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/vncnt-hugo"]
+	path = themes/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo
