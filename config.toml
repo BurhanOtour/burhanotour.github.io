@@ -92,35 +92,35 @@ disqusShortname = "yourdiscussshortname"
         url = "/contact/"
 
 
-    [languages.pt-br]
+    [languages.ar]
         languagename = "بالعربي"
         title = "برهان عطور"
 
-        [languages.pt-br.params]
+        [languages.ar.params]
             author = "برهان عطور"
             info = "مهندس برمجيات"
             description = "Sítio pessoal de João Ninguém"
             keywords = "مدون,مبرمج,علوم حاسب, مطور ويب"
             footercontent = "(لازال قيد العمل)"
             rtl = true
-        [languages.pt-br.menu]
+        [languages.ar.menu]
 
-            [[languages.pt-br.menu.main]]
+            [[languages.ar.menu.main]]
             name = "لمحة عني"
             weight = 1
-            url = "/pt-br/about/"
+            url = "/ar/about/"
 
-            [[languages.pt-br.menu.main]]
+            [[languages.ar.menu.main]]
             name = "مدونة"
             weight = 2
-            url = "/pt-br/posts/"
+            url = "/ar/posts/"
 
   #          [[languages.pt-br.menu.main]]
   #          name = "مشاريع"
   #          weight = 3
   #          url = "/pt-br/projects/"
 
-            [[languages.pt-br.menu.main]]
+            [[languages.ar.menu.main]]
             name = "التواصل"
             weight = 5
-            url = "/pt-br/contact/"
+            url = "/ar/contact/"
