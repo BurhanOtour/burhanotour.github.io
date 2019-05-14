@@ -1,38 +1,126 @@
-baseURL = "https://example.com/"
-# include content marked as draft
-buildDrafts = false
-# include content with publishdate in the future
-buildFuture = false
-# include content already expired
-buildExpired = false
-# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
-relativeURLs = true
-disableRSS = true
-enableRobotsTXT = true
-editor = "nano"
-languageCode = "en"
-language = "en"
-theme = "vncnt-hugo"
-title = "Burhan Otour · Landing Page"
+baseurl = "https://burhanotour.github.io/"
+title = "Burhan Otour"
 
-[blackfriday]
-  extensions = ["hardLineBreak"]
+theme = "hugo-coder"
 
-[permalinks]
-  fixed = ":title/"
-  posts = "posts/:slug/"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 10
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "Burhan Otour"
-  email = "burhan.a.otour@hotmail.com"
-  description = "Landing Page"
-  bio = "Full Stack Software Engineer. \nBased in Germany :)"
-  avatar = "img/avatar.jpg"
-  favicon = "img/favicon.ico"
-  error404 = "There is no such page."
+    author = "Burhan Otour"
+    description = "Burhan Otour's personal website"
+    keywords = "blog,developer,traveler,personal"
+    info = "Full Stack Software Engineer"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "(Still Under Construction)."
+    dateformat = "January 2, 2006"
 
-  [params.contact]
-    github = "https://github.com/BurhanOtour"
-    instagram = "https://instagram.com/BurhanOtour"
-    twitter = "https://twitter.com/BurhanAOtour"
-    linkedin = "https://linkedin.com/in/burhanotour"
+    hideCredits = false
+    hideCopyright = false
+
+#    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Use inverted colors
+    inverted = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/BurhanOtour/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/botour/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/BurhanAOtour/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/burhanotour/"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 3
+        url = "/posts/"
+###
+      #  [[languages.en.menu.main]]
+     #   name = "Projects"
+    #    weight = 2
+   #     url = "/projects/"
+###
+        [[languages.en.menu.main]]
+        name = "Contact me"
+        weight = 5
+        url = "/contact/"
+
+
+    [languages.pt-br]
+        languagename = "بالعربي"
+        title = "برهان عطور"
+
+        [languages.pt-br.params]
+            author = "برهان عطور"
+            info = "مهندس برمجيات"
+            description = "Sítio pessoal de João Ninguém"
+            keywords = "مدون,مبرمج,علوم حاسب, مطور ويب"
+            footercontent = "(لازال قيد العمل)"
+            rtl = true
+        [languages.pt-br.menu]
+
+            [[languages.pt-br.menu.main]]
+            name = "لمحة عني"
+            weight = 1
+            url = "/pt-br/about/"
+
+            [[languages.pt-br.menu.main]]
+            name = "مدونة"
+            weight = 2
+            url = "/pt-br/posts/"
+
+  #          [[languages.pt-br.menu.main]]
+  #          name = "مشاريع"
+  #          weight = 3
+  #          url = "/pt-br/projects/"
+
+            [[languages.pt-br.menu.main]]
+            name = "التواصل"
+            weight = 5
+            url = "/pt-br/contact/"
