@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/posts/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/categories/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/tags/i18n/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burhanotour.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://burhanotour.github.io/ar/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://burhanotour.github.io/ar/posts/first.ar/</loc>
+  </url>
+  
+</urlset>
